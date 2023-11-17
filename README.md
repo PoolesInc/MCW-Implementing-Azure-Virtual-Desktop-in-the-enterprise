@@ -1,6 +1,6 @@
 # Implementing Azure Virtual Desktop in the enterprise
 
-## NOTE: This workshop will retire November 16, 2023. This workshop is no longer being maintained.
+## NOTE: This workshop is archived and no longer being maintained. Content is read-only.
 
 Contoso Healthcare, headquartered in Los Angeles, California, is a national healthcare provider with a network of affiliate hospitals and doctor’s offices located throughout North America. These locations continue to grow through acquisition.  The nature of their business requires a high level of security of personal identifiable information (PII) for their employees.
 
